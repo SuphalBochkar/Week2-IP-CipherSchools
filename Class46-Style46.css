@@ -1,0 +1,27 @@
+
+
+
+/* ~ ID has more preference*/
+
+/*!    inline Style > id selector > class in last Selector > element selector >  */ 
+
+h1{
+    color: aqua;
+}
+
+/* .h1class{
+    color: red !important ;
+} */
+
+h1.heading{
+    color:magenta;
+
+}
+
+.h1class{
+    color: red  ;
+}
+
+/* #h1id{
+    color: rgb(0, 0, 0);
+} */
