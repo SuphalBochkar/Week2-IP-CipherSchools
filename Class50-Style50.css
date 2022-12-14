@@ -1,0 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=La+Belle+Aurore&family=Martian+Mono:wght@300&family=Montserrat:ital,wght@1,200&family=Poppins:wght@300&display=swap');
+*{
+    font-family: 'La Belle Aurore', cursive;
+    font-family: 'Martian Mono', monospace;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Poppins', sans-serif;
+}
