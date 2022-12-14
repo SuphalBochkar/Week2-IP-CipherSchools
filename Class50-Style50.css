@@ -5,3 +5,22 @@
     font-family: 'Montserrat', sans-serif;
     font-family: 'Poppins', sans-serif;
 }
+h1{
+    background-color: rgb(74, 75, 77);
+    margin: 5px 50px 5px 50px  ;
+    width: auto;
+    text-align: center;
+}
+
+.about1,.about2{
+    margin: 5px 80px 50px 80px  ;
+    border: 2px solid black;
+    padding: 10px;
+}
+section h2{
+    text-transform: uppercase;
+}
+.container{
+    width: 1400px;
+    margin: 0 auto;
+}
